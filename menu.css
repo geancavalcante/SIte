@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+body{
+margin:0px;
+margin-top: 0; 
+background-color: whitesmoke;
+}
+
+.imagem1{
+    width: 250px;
+}
+
+.corpo{
+ padding:15px ;
+ background-color: aqua;
+ border: 3px solid black;
+
+}
+
+.titulo{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 60px;}
+
+
+.todo { margin: 180px;
+    right: 180px;
+    margin-top: 0px;
+    margin-left: 90px;
+    background-color: aliceblue;
+}
+
+p{font-size: 25px;
+    font-family: 'Playfair Display', serif;
+}
+
+.Vídeo{ justify-content: center;
+    height:300px;
+    width: 300px;
+    align-items: center;
+}
+.video{margin-top:6px ;}
+
+h2 {color: orangered;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 39px;
+}
+h3 {font-family: Arial, Helvetica, sans-serif;
+     font-size: 30px;
+}
+
+.inf{font-size: 15px;
+     color: lightgrey;
+}
+
+#menu a {text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 3px;
+}
+
+.corpo{display: flex;
+justify-content: space-between;
+align-items: center;}
+
+#menu:hover{
+    background-color: lightslategrey;
+    
+}
+
+#menu a {font-size: 30;
+}
+
+.imagem3 
+{   
+    width: 39px;
+}
+
